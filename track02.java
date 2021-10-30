@@ -1,6 +1,6 @@
 package gitHomeWork;
 
-public class track01 {
+public class track02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
